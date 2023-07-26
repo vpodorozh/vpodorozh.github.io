@@ -6,19 +6,13 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <url>
   <loc>https://vpodorozh.github.io/</loc>
-  <lastmod>2020-11-18T16:18:16+00:00</lastmod>
+  <lastmod>2023-07-26T10:00:00+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
   <loc>https://vpodorozh.github.io/index.html</loc>
-  <lastmod>2020-11-18T16:18:16+00:00</lastmod>
+  <lastmod>2023-07-26T10:00:00+00:00</lastmod>
   <priority>0.70</priority>
 </url>
-<url>
-  <loc>https://vpodorozh.github.io/about.html</loc>
-  <lastmod>2020-11-18T16:18:16+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-
 
 </urlset>
